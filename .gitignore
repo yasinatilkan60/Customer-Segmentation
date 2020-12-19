@@ -23,6 +23,7 @@ __pycache__/
 *$py.class
 
 kmeans_clustering.ipynb
+Cust_Segmentation.csv
 
 # C extensions
 *.so

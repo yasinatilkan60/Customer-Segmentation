@@ -29,6 +29,10 @@ Until: Veri setini tek bir kümede toplayıncaya kadar yeni iterasyona devam et.
 ```
 Yakınlık matrisini güncellerken Min(en yakın komşu), Max(en uzak komşu), Grup ortalama ve Ward metodu gibi yöntemler kullanılmaktadır.
 
+## Normalizasyon Yöntemi
+
+Normalizasyon işlemi, değerlerin belirli aralıklara indirgenmesidir. Kümeleme yöntemlerinde iki değişkenin de eşit etkiye sahip olması ve kümelemenin doğru bir şekilde gerçekleştirilmesi için normalizasyon işlemi yapılmıştır.
+
 ## Kullanılan Teknojiler
 
 - Veri setinin tutulması ve üzerinde işlem yapılabilmesi için Pandas kütüphanesi.
@@ -38,6 +42,8 @@ Yakınlık matrisini güncellerken Min(en yakın komşu), Max(en uzak komşu), G
 - Veri görselleştirme için Matplotlib kütüphanesi.
 
 ## Veri Seti
+
+Veri setinde 850 kayıt vardır. Bu projede ilk 500 kayıt kullanılmıştır. Her iki kümeleme yönteminde de gelir düzeyi (Income) ve borç-gelir oranı(DebtIncomeRatio) değişkenleri kullanılmış, diğer değişkenler veri setinden çıkarılmıştır.
 
 https://www.kaggle.com/yashgupta011/customer-segmentation-dataset
 

@@ -47,3 +47,6 @@ Veri setinde 850 kayıt vardır. Bu projede ilk 500 kayıt kullanılmıştır. H
 
 https://www.kaggle.com/yashgupta011/customer-segmentation-dataset
 
+## Faydanılan Kaynaklar
+
+Veri Bilimi ve Makine Öğrenmesi Kursu - Udemy - Mustafa Vahit Keskin
